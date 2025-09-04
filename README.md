@@ -1,8 +1,12 @@
 # Data
 Data Analytics
 
-# Statistical Analysis of Grape Morphology for Strategic Pricing in the Wine Industry
+# [Statistical Analysis of Grape Morphology for Strategic Pricing in the Wine Industry](https://jstoianovici.github.io/Data/)
 
-•	Importing and data cleaning
-•	Utilized descriptive statistical analysis and evaluate inferential analysis of grape dimensions to   generate useful insights for pricing strategy.
-•	Dashboards visualisations
+I did this project in my second year in university where I create a dashboard. The project included the following steps:
+
+* Importing and data cleaning
+
+* Utilized descriptive statistical analysis and evaluate inferential analysis of grape dimensions to   generate useful insights for pricing strategy.
+
+* Dashboards visualisations
